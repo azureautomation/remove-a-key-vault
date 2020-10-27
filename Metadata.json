@@ -1,0 +1,20 @@
+{
+    "Author": "Andreas Wieberneit (MSFT)",
+    "ContentSize": 1986,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/remove-a-key-vault/master/Remove-KeyVault.ps1",
+    "DownloadCount": 612,
+    "Id": "Remove-a-Key-Vault-c19a1299",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 504,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-4-16T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This runbook shows how to remove an existing Key Vault. It requires an Azure Run As account and additional modules, see the PREREQUISITE sections in the runbook for details. The runbook will use the Run As account to authenticate against Key Vault. The Run As account needs suffi",
+    "Title": "Remove a Key Vault",
+    "UpdatedDate": "2016-4-16T00:00:00",
+    "Url": "https://github.com/azureautomation/remove-a-key-vault",
+    "UserTags": "Utility, Dev / Test Environments"
+}
